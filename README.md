@@ -80,7 +80,7 @@ Final virtual try-on image is displayed
 
 ▶️ Run Locally
 1️⃣ Clone the repository
-git clone https://github.com/your-username/virtual-try-on.git
+git clone https://github.com/rabiasarwar726-maker/virtual-try-on.git
 cd virtual-try-on
 
 2️⃣ Install dependencies
